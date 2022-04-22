@@ -8,7 +8,7 @@
 <pre>
 <img src="https://content.techgig.com/photo/84677604/5-reasons-to-use-python-programming-language-for-web-app-development.jpg?237359" alt="drawing" width="200"/>   <img src="https://lh3.googleusercontent.com/GTmuiIZrppouc6hhdWiocybtRx1Tpbl52eYw4l-nAqHtHd4BpSMEqe-vGv7ZFiaHhG_l4v2m5Fdhapxw9aFLf28ErztHEv5WYIz5fA" width="200"/>              </pre>
 
-### ***Work until your feels proud of yourself that you have done it***
+### ***Work until your work feels proud of yourself that you have done it***
 <img src="https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/48a148c4-2202-4b94-98a9-1a41875a0f49_500x281.gif" width="1700"/>
   
 
