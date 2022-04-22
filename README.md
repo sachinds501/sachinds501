@@ -13,6 +13,6 @@
   
 
 ## Contact :
-<a href="https://www.linkedin.com/in/sachin-solanki-8a51a71b2/"><img src="https://w7.pngwing.com/pngs/311/470/png-transparent-social-media-linkedin-youtube-social-login-business-social-media-blue-text-trademark.png" style="width:65px"></a>        <a href="https://twitter.com/Sachin120202"><img src="https://1000logos.net/wp-content/uploads/2021/04/Twitter-logo.png" style="width:60px"></a>
+<a href="https://www.linkedin.com/in/sachin-solanki-8a51a71b2/"><img src="https://banner2.cleanpng.com/20180731/uee/kisspng-computer-icons-symbol-linkedin-email-telephone-continuous-background-image-5b60ea1f3195f3.7937240415330780472031.jpg" style="width:70px"></a>        <a href="https://twitter.com/Sachin120202"><img src="https://1000logos.net/wp-content/uploads/2021/04/Twitter-logo.png" style="width:60px"></a>
 
 **Email:** - codesachin501@gmail.com
