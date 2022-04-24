@@ -1,4 +1,5 @@
 
+
 # Hey , Sachin Welcome's you
  - Computer Science Engineer
  - Flutter and Python Enthusiastic.
@@ -13,9 +14,11 @@
 
 ![Sachin's Github Stats](https://github-readme-stats.vercel.app/api?username=sachinds501&show_icons=true&theme=radical)
 
+
 ## *Programming Languages*
 
 [[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinds501)](https://github.com/sachinds501/github-readme-stats)
+
 
 ## *Repo*
 <pre>
@@ -24,12 +27,15 @@
 </a> <a href="https://github.com/sachinds501/e_kart">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sachinds501&repo=e_kart" />
 </a>
-</pre>
 <a href="https://github.com/sachinds501/Whatsapp-Chat-Analyzer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sachinds501&repo=Whatsapp-Chat-Analyzer" />
 </a>
+</pre>
 
-### ***Work until your work feels proud of yourself that you have done it***
+
+
+> ***Make your work feel proud about yourself that you have done it.***
+
 <img src="https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/48a148c4-2202-4b94-98a9-1a41875a0f49_500x281.gif" width="1700"/>
   
   
