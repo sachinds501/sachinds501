@@ -21,11 +21,8 @@
 <a href="https://github.com/sachinds501/unify_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sachinds501&repo=unify_app" />
 </a>
-<a href="https://github.com/sachinds501/unify_app">
+<a href="https://github.com/sachinds501/virtual_courier">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sachinds501&repo=virtual_courier" />
-</a> 
-<a href="https://github.com/sachinds501/e_kart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sachinds501&repo=e_kart" />
 </a>
 <a href="https://github.com/sachinds501/Whatsapp-Chat-Analyzer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sachinds501&repo=Whatsapp-Chat-Analyzer" />
